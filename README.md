@@ -52,6 +52,10 @@ OR like this:
 
 > Each party will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of the other party about {{subject}} and use it only {{purpose}}. {{Exception}}.
 
+OR like this if there is no subject or exception applicable:
+
+> {{Recipient}} will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of {{Disclosing Party}} and use it only {{purpose}}. 
+
 ### Not Legal Advice
 
 This is not legal advice.  Lawyers are involved in producing these terms, but they obviously aren't familiar with your circumstances.  Speak to your lawyer to make sure that the language is well aligned with your circumstances.
