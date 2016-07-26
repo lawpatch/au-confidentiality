@@ -2,10 +2,6 @@
 
 `Purpose` Confidentiality agreement between parties.
 
-`Party 1 Name` Old Mate: Informatio Pty Ltd (ABN 92 162 135 864) of NSW, Australia.
-
-`Party 2 Name` User: the end user of the content described in this document. 
-
 ## License (Thanks, MIT License)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of the Content, to deal in the Content without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Content, and to permit persons to whom the Content is furnished to do so, provided that this document will be included in all copies or substantial portions of the Content.
