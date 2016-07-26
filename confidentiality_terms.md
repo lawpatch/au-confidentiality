@@ -46,10 +46,11 @@ means the terms and conditions constituting the agreement that incorporates this
 means all information:
 - disclosed by the Disclosing Party to the Recipient; or 
 - which otherwise becomes to be known by the Recipient, 
-that could reasonably be regarded as confidential to the Disclosing Party, including information relating to:
+that could reasonably be regarded as confidential to the Disclosing Party.
+
+Confidential Information includes information relating to:
 - technology, processes,products, inventions or designs used or developed by the Discloser; and 
-- trade secrets and know-how and commercially sensitive information,
-unless confidential information is defined in the Agreement, in which case it will have the meaning given in the Agreement.
+- trade secrets and know-how and commercially sensitive information.
 
 ### Confidentiality Obligations
 means the obligtaions regarding Confidential Information that are set out in this document.
