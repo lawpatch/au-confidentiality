@@ -4,40 +4,53 @@
 The language describes how confidential information received by one or both parties to an agreement must be treated.
 
 ### Simple confidentiality obligations with LawPatch
-Dealing with confidential information is a technical area, but most confidentiality clauses are pretty similar. This LawPatch confidentiality cluase covers the main issues that come up in most confidentiality clauses. That means you can streamline your agreement, by extracting that fairly standard technical languag and leaving the job to LawPatch.
+Confidential information is a technical area, but most contractual arrangements about confidentiality are pretty similar. This LawPatch language covers the main issues that come up in most confidentiality clauses. That allows you to streamline your agreement by taking out all that technical language and leaving the job to LawPatch.
 
 ### Obligations can go both ways or one way
 This repo is designed so that it can be used to capture both:
 - a scenario where *only one* party is receiving confidential information; and
 - a sceneario where *both parties* are disclosing confidential information to each other.
 
-The importing provision simply needs to state either that:
-- (if only one party is receiving confidential information) who owes confidentiality obligations to whom; or
-- both parties owe confidentiality obligations to each other.
+The importing provision simply needs to state either:
+- (if only one party is receiving confidential information) who owes confidentiality duties to whom; or
+- that each party owes confidentiality obligations to the other.
 
 ### Parameters 
 The language in this repo is *not* language that you can import wholesale with a simple incorporation by reference - it assumes that you have included certain information in the clause that imports it.
 
 The parameters that you *must* include are: 
-- `Disclosing Party` - The party or parties who are disclosing confidential information. Note it can be either party, or it can be both parties.
 - `Recipient` - The party or parties who are receiving confidential information. Note it can be either party, or it can be both parties.
-- `Purpose` - The purpose that the recipient of confidential information is allowed to use it for. The recipient can't use it for any other purpose, so it's important to be accurate here.
+- `Disclosing Party` - The party or parties who are disclosing confidential information. Note it can be either party, or it can be both parties.
+- `Purpose` - The purpose that the recipient is allowed to use the confidential information for. The recipient can't use it for any other purpose, so it's important to be accurate here.
 
 The parameters that are *optional* to include are:
-- `Confidential Information` - An alternative definition of confidential information, if the definition in the repo is not right for you.
+- `Subject` - What kind of information is confidential. If you include a subject, for example 'in relation to the Services' then confidentiality obligations only apply to confidential information about the services, instead of applying to anything that might be considered confidential. 
 - `Exception` - Any areas of exception where confidentiality obligations don't apply.
 
 ### Examples
 
-Here's an example of using Lawpatch to impose confidentiality obligations on only one party, where confidential information may only be used to provide.  
+Here's an example of how to use the LawPatch confidentiality language, where:
+- the parties want to keep the customer's business model confidential; and
+- a contractor is only allowed to use information about the business model to provide services.
 
-> Contractor <a href="https://github.com/lawpatch/au-confidentiality/[INSERT REMAINDER HERE]" target="_blank">owes confidentiality obligations</a> to Customer. Contractor may only use information to which those obligations apply for the purpose of providing the services.
+> Contractor will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of the Customer about the Customer's business model and use it only to provide the Services.
 
-Here's an example where both parties owe confidentiality obligations, where the information can only be used for setting up a joint venture, but the confidential information is limited to prospectuses they have given to each other. The pu This requires Confidential Information to be defined in the Agreement.
+Here's an example of how to use the LawPatch confidentiality language where:
+- both parties want the other to keep their information confidential; 
+- both parties want the other party only to use it in order to arrange a joint venture;
+- there will be an exception that allows the parties to publicise the fact that they are in negoatiations.
 
-> Both parties <a href="https://github.com/lawpatch/au-confidentiality/[INSERT REMAINDER HERE]" target="_blank">owe confidentiality obligations</a> to each other in respect of the Confidential Information. The parties may use the Confidential Information for the purpose of discussing, considering and entering into a joint venture.
+> Each party will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of the other party and only use it for the purpose of discussing, considering and entering into a joint venture with the other party. The parties are, however, allowed to disclose the fact that they are in negotiations.
 
-> Confidential Information means information contained in a prospectus provided by one party to the other.
+### Structure of incorporating clause
+
+As the examples above show, the parameters fit into a clause like this: 
+
+> {{Recipient}} will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of {{Disclosing Party}} about {{subject}} and use it only {{purpose}}. {{Exception}}. 
+
+OR like this: 
+
+> Each party will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of the other party about {{subject}} and use it only {{purpose}}. {{Exception}}.
 
 ### Not Legal Advice
 
