@@ -49,8 +49,9 @@ means all information:
 that could reasonably be regarded as confidential to the Disclosing Party,
 
 and includes information relating to:
-- technology, processes,products, inventions or designs used or developed by the Discloser; and 
-- trade secrets and know-how and commercially sensitive information.
+- technology, processes, products, inventions or designs used or developed by the Discloser; and 
+- trade secrets and know-how; and 
+- commercially sensitive information.
 
 ### Confidentiality Obligations
 means the obligtaions regarding Confidential Information that are set out in this document.
