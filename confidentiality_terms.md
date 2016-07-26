@@ -26,10 +26,11 @@ Recipient may disclose Confidential Information to professional advisors, employ
 - Recipient must not make such a disclosure without first notifying Disclosing and giving Disclosing Party a reasonable opportunity to object to the disclosure. Recipient must comply with Disclosing Party's reasonable requests with regard to such a disclosure.
 - Recipient must also use reasonable endeavours to ensure any person receiving the Confidential Information under this clause will treat it confidentially, and under materially the same obligations as the Confidentiality Obligations.
 
-** Exceptions**
-- Where there is an Exception, the Confidentiality Obligations will not apply to the extent of the Exception.
+**Exceptions**
 
-** Damages not an adequate remedy**
+Where there is an Exception, the Confidentiality Obligations will not apply to the extent of the Exception.
+
+**Damages not an adequate remedy**
 
 - The parties agree that the value of the Confidential Information is difficult to assess, and damages would not be an adequate remedy for the irreperable harm that would be caused by the Recipient's breach of the Confidentiality Obligations.
 
