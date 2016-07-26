@@ -18,13 +18,13 @@ any unauthorised access or use of the Confidential Information for which it is r
 
 **Permitted disclosures**
 
-Recipient may disclose Confidential Information to professional advisors, employees, agents and contractors, but only to the extent necessary for the Purpose.
-
+- Recipient may disclose Confidential Information to professional advisors, employees, agents and contractors, but only to the extent necessary for the Purpose.
 - Recipient is also permitted to disclose Confidential Information if:
 	- the disclosure is necessary in order to enforce the Agreement;
-	- the disclosure is required by law or a binding order of a government agency or court.
-- Recipient must not make such a disclosure without first notifying Disclosing and giving Disclosing Party a reasonable opportunity to object to the disclosure. Recipient must comply with Disclosing Party's reasonable requests with regard to such a disclosure.
-- Recipient must also use reasonable endeavours to ensure any person receiving the Confidential Information under this clause will treat it confidentially, and under materially the same obligations as the Confidentiality Obligations.
+	- the disclosure is required by law or a binding order of a government agency or court, but
+Recipient must not make such a disclosure without first notifying Disclosing and giving Disclosing Party a reasonable opportunity to object to the disclosure. 
+- Recipient must comply with Disclosing Party's reasonable requests with regard to any permitted disclosure.
+- Recipient must also use reasonable endeavours to ensure any person receiving the Confidential Information under this clause will treat it confidentially, and under substantially the same obligations as the Confidentiality Obligations.
 
 **Exceptions**
 
@@ -34,15 +34,22 @@ Where there is an Exception, the Confidentiality Obligations will not apply to t
 
 - The parties agree that the value of the Confidential Information is difficult to assess, and damages would not be an adequate remedy for the irreperable harm that would be caused by the Recipient's breach of the Confidentiality Obligations.
 
-- If the Recipient actually breaches or threatens to breach the Confidentiality Obligations, the Disclosing Party will be entitled to enforce the Recipient's Confidentiality Obligations by injunctive relief or specific performance, as well as through any other available remedy. The Disclosing Party will not be required to prove actual or special damage in order to do so.
+- If the Recipient actually breaches or threatens to breach the Confidentiality Obligations, the Disclosing Party will be entitled to enforce the Recipient's Confidentiality Obligations by injunctive relief or specific performance, in addition to enforcing any other available remedy. The Disclosing Party will not be required to prove actual or special damage in order to do so.
 
 ## Definitions
+Defined terms in this document will have the meanings described below.
 
 ### Agreement
 means the terms and conditions constituting the agreement that incorporates this document.
 
 ### Confidential Information
-means all information disclosed by the Disclosing Party to the Recipient, or which otherwise becomes to be known by the Recipient, that could reasonably be regarded as confidential to the Disclosing Party, including information relating to technology, processes, products, inventions or designs used or developed by the Discloser, trade secrets and know-how and commercially sensitive information, unless that term is defined in the Agreement, in which case it will have the meaning given in that definition.
+means all information:
+- disclosed by the Disclosing Party to the Recipient; or 
+- which otherwise becomes to be known by the Recipient, 
+that could reasonably be regarded as confidential to the Disclosing Party, including information relating to:
+- technology, processes,products, inventions or designs used or developed by the Discloser; and 
+- trade secrets and know-how and commercially sensitive information,
+unless confidential information is defined in the Agreement, in which case it will have the meaning given in the Agreement.
 
 ### Confidentiality Obligations
 means the obligtaions regarding Confidential Information that are set out in this document.
