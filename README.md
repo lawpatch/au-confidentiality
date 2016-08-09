@@ -4,10 +4,10 @@
 The language describes how confidential information received by one or both parties to an agreement must be treated.
 
 ### Simple confidentiality obligations with LawPatch
-Confidential information is a technical area, but most contractual arrangements about confidentiality are pretty similar. This LawPatch language covers the main issues that come up in most confidentiality clauses. That allows you to streamline your agreement by taking out all that technical language and leaving the job to LawPatch.
+Confidential information is a technical area, but most contractual arrangements about confidentiality are pretty similar. This LawPatch language covers the main issues that come up when dealing with confidentiality, so you can streamline your agreement.
 
 ### Obligations can go both ways or one way
-This repo is designed so that it can be used to capture both:
+The LawPatch confidentiality language is designed so that it can be used to capture both:
 - a scenario where *only one* party is receiving confidential information; and
 - a sceneario where *both parties* are disclosing confidential information to each other.
 
@@ -16,12 +16,12 @@ The importing provision simply needs to state either:
 - that each party owes confidentiality obligations to the other.
 
 ### Parameters 
-The language in this repo is *not* language that you can import wholesale with a simple incorporation by reference - it assumes that you have included certain information in the clause that imports it.
+The LawPatch confidentiality language is *not* language that you can import wholesale with a simple incorporation by reference - it assumes that you have included certain information in the clause that imports it.
 
 The parameters that you *must* include are: 
 - `Recipient` - The party or parties who are receiving confidential information. Note it can be either party, or it can be both parties.
 - `Disclosing Party` - The party or parties who are disclosing confidential information. Note it can be either party, or it can be both parties.
-- `Purpose` - The purpose that the recipient is allowed to use the confidential information for. The recipient can't use it for any other purpose, so it's important to be accurate here.
+- `Purpose` - The purpose for which the recipient is allowed to use the confidential information. The recipient can't use it for any other purpose, so it's important to be accurate here.
 
 The parameters that are *optional* to include are:
 - `Subject` - What kind of information is confidential. If you include a subject, for example 'in relation to the Services' then confidentiality obligations only apply to confidential information about the services, instead of applying to anything that might be considered confidential. 
@@ -44,7 +44,7 @@ Here's an example of how to use the LawPatch confidentiality language where:
 
 ### Structure of incorporating clause
 
-As the examples above show, the parameters fit into a clause like this: 
+As the examples above show, the parameters fit into a clause like this (parameters are indicated with {{curly brackets}}): 
 
 > {{Recipient}} will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of {{Disclosing Party}} about {{subject}} and use it only {{purpose}}. {{Exception}}. 
 
