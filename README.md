@@ -33,7 +33,7 @@ Here's an example of how to use the LawPatch confidentiality language, where:
 - the parties want to keep the customer's business model confidential; and
 - a contractor is only allowed to use information about the business model to provide services.
 
-> Contractor will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of the Customer about the Customer's business model and use it only to provide the Services.
+> Contractor will [secret any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of the Customer about the Customer's business model and use it only to provide the Services.
 
 Here's an example of how to use the LawPatch confidentiality language where:
 - both parties want the other to keep their information confidential; 
