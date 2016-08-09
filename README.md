@@ -40,21 +40,21 @@ Here's an example of how to use the LawPatch confidentiality language where:
 - both parties want the other party only to use it in order to arrange a joint venture;
 - there will be an exception that allows the parties to publicise the fact that they are in negoatiations.
 
-> Each party will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of the other party and only use it for the purpose of discussing, considering and entering into a joint venture with the other party. The parties are, however, allowed to disclose the fact that they are in negotiations.
+> Each party will [keep secret any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of the other party and only use it for the purpose of discussing, considering and entering into a joint venture with the other party. The parties are, however, allowed to disclose the fact that they are in negotiations.
 
 ### Structure of incorporating clause
 
 As the examples above show, the parameters fit into a clause like this (parameters are indicated with {{curly brackets}}): 
 
-> {{Recipient}} will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of {{Disclosing Party}} about {{subject}} and use it only {{purpose}}. {{Exception}}. 
+> {{Recipient}} will [keep secret any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of {{Disclosing Party}} about {{subject}} and use it only {{purpose}}. {{Exception}}. 
 
 OR like this: 
 
-> Each party will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of the other party about {{subject}} and use it only {{purpose}}. {{Exception}}.
+> Each party will [keep secret any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of the other party about {{subject}} and use it only for {{purpose}}. {{Exception}}.
 
 OR like this if there is no subject or exception applicable:
 
-> {{Recipient}} will [keep confidential any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of {{Disclosing Party}} and use it only {{purpose}}. 
+> {{Recipient}} will [keep secret any confidential information] (https://github.com/lawpatch/au-confidentiality/blob/master/confidentiality_terms.md) of {{Disclosing Party}} and use it only {{purpose}}.
 
 ### Not Legal Advice
 
