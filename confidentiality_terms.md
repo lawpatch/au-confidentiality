@@ -11,7 +11,7 @@
 Recipient agrees to:
 - use industry standard security techniques to prevent;
 - immediately notify Disclosing Party of;
-- comply with Disclosing Party's reasonable insructions regarding; and
+- comply with Disclosing Party's reasonable instructions regarding; and
 - use its best endeavours to mitigate the effects of,
 
 any unauthorised access to or use of the Confidential Information for which Recipient is responsible in whole or in part.
@@ -34,7 +34,7 @@ Where there is an Exception, the Confidentiality Obligations will not apply to t
 
 - The parties agree that:
 	- the value of the Confidential Information is difficult to assess; and 
-	- damages would not be an adequate remedy for the irreperable harm that would be caused by the Recipient's breach of the Confidentiality Obligations.
+	- damages would not be an adequate remedy for the irreparable harm that would be caused by the Recipient's breach of the Confidentiality Obligations.
 - If Recipient actually breaches or threatens to breach the Confidentiality Obligations, Disclosing Party will be entitled to enforce Recipient's Confidentiality Obligations by injunctive relief or specific performance, in addition to any other available remedy. The Disclosing Party will not be required to prove actual or special damage in order to do so.
 
 **Interpretation**
@@ -58,7 +58,7 @@ that could reasonably be regarded as confidential to the Disclosing Party, and i
 - commercially sensitive information.
 
 ### Confidentiality Obligations
-means the obligtaions regarding Confidential Information that are set out in this document.
+means the obligations regarding Confidential Information that are set out in this document.
 
 ### Disclosing Party
 means the party or parties identified in the Provision as the party to whom Confidentiality Obligations are owed. 
